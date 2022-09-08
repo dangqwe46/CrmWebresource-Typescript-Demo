@@ -1,0 +1,10 @@
+{
+  "entities": [
+    "dang_approvalrequest"
+  ],
+  "actions": [],
+  "functions": [],
+  "output": {
+    "outputRoot": "./src/dataverse-gen"
+  }
+}

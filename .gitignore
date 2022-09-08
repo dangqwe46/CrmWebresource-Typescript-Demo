@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DangSolution/.vs/slnx.sqlite
+/DangSolution/.vs
+/DangSolution/Dang.ApprovalRequest.Webresource/bin/coretools
+/DangSolution/Dang.ApprovalRequest.Webresource/spkl
+/DangSolution/packages
+/DangSolution/Dang.ApprovalRequest.Webresource/node_modules
+/DangSolution/Dang.ApprovalRequest.Webresource/src/dataverse-gen

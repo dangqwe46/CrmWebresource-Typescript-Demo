@@ -1,0 +1,21 @@
+{
+  "webresources": [
+    {
+      "profile": "default,debug",
+      "root": "",
+      "solution": "ApprovalTest",
+      "files": [
+        {
+          "uniquename": "dang_/ApprovalTest/js/somefile.js",
+          "file": "dang_\\ApprovalTest\\js\\somefile.js",
+          "description": ""
+        },
+        {
+          "uniquename": "dang_/ApprovalTest/js/RequestLib.js",
+          "file": "dang_\\ApprovalTest\\js\\RequestLib.js",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
